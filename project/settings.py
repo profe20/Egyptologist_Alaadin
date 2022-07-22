@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-59k0(beud5q14mf-l9iq&ew*0k=ekuumud=%^mik$maa(*p3(0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ 'localhost', '127.0.0.1','alfriendvoyage.herokuapp.com','alfriendvoyage3.herokuapp.com', '.www.alfriendvoyage.com','alfriendvoyage.com']
+ALLOWED_HOSTS = [ 'localhost', '127.0.0.1','egyptologistalaadin.herokuapp.com','alfriendvoyage3.herokuapp.com', '.www.alfriendvoyage.com','alfriendvoyage.com']
 
 
 # Application definition
